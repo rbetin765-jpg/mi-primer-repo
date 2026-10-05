@@ -1,1 +1,2 @@
 1. Aprender GIT
+2. practicar push
