@@ -1,3 +1,4 @@
 Mis notas de Git
 Segunda linea de prueba
 Linea escrita en la rama prueba
+Linea escrita en la rama conflicto
